@@ -1,0 +1,6 @@
+.venv
+.env
+notebook
+Ecommercebot.egg-info
+.vscode
+all-MiniLM-L6-v2
